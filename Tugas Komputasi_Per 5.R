@@ -81,7 +81,7 @@ plot(x_dexp, y_dexp, type="l", col="purple", lwd=2,
      main="PDF Distribusi Eksponensial",
      xlab="x", ylab="f(x)")
 
-## Soal 4(Sebaran Normal (Gaussian))
+## Soal 4 (Sebaran Normal (Gaussian))
 # Contoh: Normal dengan mu = 250, sigma = 5
 n <- 100
 mu <- 250
